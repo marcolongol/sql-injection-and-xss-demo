@@ -1,0 +1,12 @@
+[submodule "startrek_payroll"]
+	path = startrek_payroll
+	url = https://github.com/thomaslaurenson/startrek_payroll
+[submodule "xss-demo"]
+	path = xss-demo
+	url = https://github.com/bgres/xss-demo
+[submodule "beef"]
+	path = beef
+	url = https://github.com/beefproject/beef
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap
